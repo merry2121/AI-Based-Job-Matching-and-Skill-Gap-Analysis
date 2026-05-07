@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "candidate_name": "merry@21",
+    "job_id": 1,
+    "job_title": "Senior Software Engineer",
+    "company": "Google Ethiopia",
+    "match_score": 95.0,
+    "status": "Pending Review",
+    "message": "i want to be employed to this job.",
+    "applied_at": "2026-04-24 00:33"
+  }
+]
